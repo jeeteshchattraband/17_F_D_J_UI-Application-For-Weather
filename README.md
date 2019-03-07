@@ -1,5 +1,7 @@
 # UI application for Weather sensing using API in Angular with Hosting and Authentication 
 
+Created By Jeetesh Chattraband
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
 ## Development server
