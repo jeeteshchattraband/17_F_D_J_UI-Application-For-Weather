@@ -1,4 +1,4 @@
-# Minimus
+# UI application for Weather sensing using API in Angular with Hosting and Authentication 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
